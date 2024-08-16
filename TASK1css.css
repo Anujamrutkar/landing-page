@@ -1,0 +1,201 @@
+body{
+   background-image: url('cart.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+header{
+    color: rgb(108, 127, 116);
+    border: 30px;
+}
+
+h1{
+    
+  background-image: rgb(192, 184, 184);
+   padding: 3;
+
+
+} 
+img{
+    padding-left: 10;
+    margin-left: 3;
+    margin-right: 9;
+    width: 30px;
+    align-self: center;
+    cursor: pointer
+    
+}
+.office{
+    width: 1400 ;
+    height: 600;
+    object-fit: center;
+   
+    
+}
+
+.land{
+  color: brown;
+  text-align: center;
+  margin-top: -63;
+  font-size: 30;
+  font-family: cursive;
+}
+.uu{
+    float: right;
+   
+    padding: 2;
+    margin-right:100 ;
+    margin-top: 8;
+    cursor: pointer
+    
+}
+ 
+
+  .Wel{
+    font-size: 100;
+    text-decoration: dotted;
+    color: white;
+    margin-left: 859;
+    margin-top: 180;
+    font-family: 'Brush Script MT', cursive ;
+  }
+  .search{
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+    margin-left: 855;
+    font-size: 20px;
+    margin-top: -5% ;
+    box-shadow: #ff0000;
+    background-color: transparent;
+    border-color: #ff0a0a;
+    border: 3px solid #4a729a;
+
+  }
+
+  .Freetrial{
+    margin-left: 890;
+    background-color: rgb(16, 16, 215);
+    width: 100;
+    height: 30;
+    border-radius: 50px;
+    font-size: 15;
+    color: white;
+  } 
+  .Freetrial:hover {
+    background-color: #8714b8;
+    color: white;
+  }
+  .seemore{
+    margin-left: 10;
+    background-color: rgb(245, 245, 245);
+    width: 100;
+    height: 30;
+    border-radius: 50px;  
+    font-size: 15;
+    color: #030303;
+    margin-top: -30  ;
+   box-shadow: white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .seemore:hover {
+    background-color: #000000;
+    color: white;
+  }
+
+
+.signin{
+  margin-left: 1120;
+  margin-top: -30;
+  border-radius: 50px;
+  width: 90;
+  padding: 10;
+  font-size: 15;
+  text-decoration: none;
+  display: inline-block;
+  color: #e4e4ec;
+  transition-duration: 0.4s;
+  background-color: blue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: cursor;
+}
+.signin:hover {
+  background-color: #392b2b;
+  color: white;
+}
+.threelines{
+margin-left: 1250;
+margin-top: -78;
+font-size: 30;
+}
+.about{
+  cursor: pointer;    
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  margin-left: 350;
+  text-align: center;
+  margin-top: -900;
+  font-size: 15;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Download{
+  cursor: pointer;    
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  margin-left: 30;
+  text-align: center;
+  margin-top: -900;
+  font-size: 15;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Pricing{
+  cursor: pointer;    
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  margin-left: 35;
+  text-align: center;
+  margin-top: -900;
+  font-size: 15;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Features{
+  cursor: pointer;    
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  margin-left: 20;
+  text-align: center;
+  margin-top: -900;
+  font-size: 15;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contact{
+  cursor: pointer;    
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  margin-left: 10;
+  text-align: center;
+  margin-top: -900;
+  font-size: 15;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
