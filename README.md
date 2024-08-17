@@ -1,2 +1,5 @@
 # landing-page 
-ie is given by codsoft for completion fo internship
+landing page designed by html and css 
+its is a part of task of codsoft internship
+
+  
